@@ -1,5 +1,5 @@
 # This file was edited by Cloudbees Feature Management
 type: experiment
 flag: snakeGame.release
-enabled: true
+enabled: false
 value: true
